@@ -23,9 +23,9 @@ var store = [{
         "url": "https://trexminer.info/documentation/setup/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },{
-        "title": "Clear 06 06",
+        "title": "Clear 06 08",
         "excerpt":"   ","categories": ["articles"],
         "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-06-06/",
+        "url": "https://trexminer.info/ru/articles/clear-06-08/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },]
