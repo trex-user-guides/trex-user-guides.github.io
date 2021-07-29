@@ -106,4 +106,10 @@ var store = [{
         "tags": ["T-Rex Miner"],
         "url": "https://trexminer.info/download/0.21.4/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
+      },{
+        "title": "Скачать T-Rex Miner 0.21.5 - NVIDIA GPU Miner [2021]",
+        "excerpt":" Get started with T-Rex Miner  \t\t \t\t\t \t\tVersion: 0.21.5  \t\tFile: *t-rex.exe,    \t\tSHA256: 231ffd49403e6959aa218ff4e579dbdd65ea58cbc5a24ed2b5a51d9d403a33bc  \t\t(Download for Linux)\t \t\t \t\t \t\t \t\t \t\tDownload Now (Windows x64) \t\t \t\t(mirror) \t\t \t     Готова для загрузки новая стабильная версия T-Rex Miner.   Вы можете скачать T-Rex Miner 0.21.5 отсюда:   Скачать сейчас   Скачать (зеркало)   Внутри архива вы найдете файл README.txt с инструкциями по установке.   Обязательно замените пул и адрес кошелька тем, что вы используете во всех файлах.        Изменения в новой версии      (Linux) Добавлена поддержка управления ограничением мощности (параметр –pl). Исправлены ошибки:   (autolykos2) Дубликаты шар   (Web UI) watchdog-exit-mode отсутствовал в конфигурации   ","categories": ["download"],
+        "tags": ["T-Rex Miner"],
+        "url": "https://trexminer.info/download/0.21.5/",
+        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },]
