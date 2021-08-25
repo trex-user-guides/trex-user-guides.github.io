@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://trexminer.info/ru/articles/monero-08-25/</loc>
+    
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://trexminer.info/ru/articles/usdc-08-24/</loc>
     
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
@@ -341,7 +350,7 @@
   <url>
     <loc>https://trexminer.info/ru/about/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -353,7 +362,7 @@
   <url>
     <loc>https://trexminer.info/ru/legal/cookie/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -365,7 +374,7 @@
   <url>
     <loc>https://trexminer.info/ru/legal/disclaimer/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -377,7 +386,7 @@
   <url>
     <loc>https://trexminer.info/ru/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -401,7 +410,7 @@
   <url>
     <loc>https://trexminer.info/ru/legal/privacy/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -415,7 +424,7 @@
   <url>
     <loc>https://trexminer.info/ru/legal/terms/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -427,7 +436,7 @@
   <url>
     <loc>https://trexminer.info/ru/articles/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -439,7 +448,7 @@
   <url>
     <loc>https://trexminer.info/ru/articles/page2/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -451,7 +460,7 @@
   <url>
     <loc>https://trexminer.info/ru/blog/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -463,7 +472,7 @@
   <url>
     <loc>https://trexminer.info/ru/documentation/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -475,7 +484,7 @@
   <url>
     <loc>https://trexminer.info/ru/download/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -487,7 +496,7 @@
   <url>
     <loc>https://trexminer.info/ru/video/</loc>
       
-        <lastmod>2021-08-24T19:46:45+00:00</lastmod>
+        <lastmod>2021-08-25T19:06:29+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
