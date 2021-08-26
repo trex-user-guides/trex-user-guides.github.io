@@ -2,15 +2,15 @@
 <sitemapindex
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://teamredminer.info/sitemap.xml</loc>
+        <loc>https://trexminer.info/sitemap.xml</loc>
     </sitemap>
     <sitemap>
-        <loc>https://teamredminer.info/ru/sitemap.xml</loc>
+        <loc>https://trexminer.info/ru/sitemap.xml</loc>
     </sitemap>    
 	<sitemap>
-        <loc>https://teamredminer.info/es/sitemap.xml</loc>
+        <loc>https://trexminer.info/es/sitemap.xml</loc>
     </sitemap>    
 	<sitemap>
-        <loc>https://teamredminer.info/zh/sitemap.xml</loc>
+        <loc>https://trexminer.info/zh/sitemap.xml</loc>
     </sitemap>
 </sitemapindex>
