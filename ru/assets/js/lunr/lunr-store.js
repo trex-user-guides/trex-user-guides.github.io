@@ -227,9 +227,9 @@ var store = [{
         "url": "https://trexminer.info/ru/articles/monero-08-25/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },{
-        "title": "Clear 08 26",
+        "title": "Clear 08 28",
         "excerpt":"   ","categories": ["articles"],
         "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-08-26/",
+        "url": "https://trexminer.info/ru/articles/clear-08-28/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },]
