@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://trexminer.info/download/0.23.2/</loc>
+    
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>https://trexminer.info/download/latest/</loc>
     
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
@@ -80,7 +89,7 @@
   <url>
     <loc>https://trexminer.info/about/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -92,7 +101,7 @@
   <url>
     <loc>https://trexminer.info/legal/cookie/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -104,7 +113,7 @@
   <url>
     <loc>https://trexminer.info/legal/disclaimer/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -116,7 +125,7 @@
   <url>
     <loc>https://trexminer.info/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -140,7 +149,7 @@
   <url>
     <loc>https://trexminer.info/legal/privacy/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -154,7 +163,7 @@
   <url>
     <loc>https://trexminer.info/legal/terms/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -166,7 +175,7 @@
   <url>
     <loc>https://trexminer.info/articles/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -178,7 +187,7 @@
   <url>
     <loc>https://trexminer.info/blog/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -190,7 +199,7 @@
   <url>
     <loc>https://trexminer.info/documentation/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -202,7 +211,7 @@
   <url>
     <loc>https://trexminer.info/download/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -214,7 +223,7 @@
   <url>
     <loc>https://trexminer.info/video/</loc>
       
-        <lastmod>2021-09-11T19:03:26+00:00</lastmod>
+        <lastmod>2021-09-28T13:28:05+00:00</lastmod>
        
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
