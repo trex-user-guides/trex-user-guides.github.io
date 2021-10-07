@@ -59,8 +59,8 @@ var store = [{
         "url": "https://trexminer.info/download/0.21.6/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },{
-        "title": "Скачать T Rex Miner&#58; последняя версия (0.23.2) - [2021]",
-        "excerpt":" Начните добывать криптовалюту   с помощью T-Rex Miner  \t\t \t\t\t \t\tВерсия: 0.23.2  \t\tФайл: *t-rex.exe,   \t\tSHA256: 545bceb09e377201c0f4376efc951d8b735e4628abd877d8971cb1c59d1dc231  \t\t(Скачать для Linux)\t \t\t \t\t \t\t \t\t \t\tСкачать сейчас(Windows x64) \t\t \t\t(зеркало) \t\t \t     Самая последняя версия программы T Rex Miner 0.23.2 готова для загрузки.   Скачайте T-Rex Miner 0.23.2 отсюда:   Скачать Сейчас   Скачать (зеркало)   Внутри архива вы найдете файл README.txt с инструкциями по установке.   Обязательно замените пул и адрес кошелька тем, что вы используете во всех файлах.        Поддерживает алгоритмы      autolykos2    etchash    ethash    kawpow    mtp    mtp-tcr    multi    octopus    progpow    progpow-veil    progpow-veriblock    progpowz    tensority    Поддерживаемые криптовалюты  \t \t\t \t\t\t# \t\t\tМонета \t\t\tАлгоритм \t\t \t\t \t\t\t1 \t\t\tAKA Akroma \t\t\tEthash \t\t \t\t \t\t\t2 \t\t\tANTPOOL RVN AntPool \t\t\tKAWPOW \t\t \t\t \t\t\t3 \t\t\tATH Atheios \t\t\tEthash \t\t \t\t \t\t\t4 \t\t\tBEEPOOL CFX BeePool \t\t\tOctopus \t\t \t\t \t\t\t5 \t\t\tBEEPOOL ETC BeePool \t\t\tEtchash \t\t \t\t \t\t\t6 \t\t\tBEEPOOL ETH BeePool \t\t\tEthash \t\t \t\t \t\t\t7 \t\t\tBEEPOOL RVN BeePool \t\t\tKAWPOW \t\t \t\t \t\t\t8 \t\t\tBINANCE ETH Blnance \t\t\tEthash \t\t \t\t \t\t\t9 \t\t\tCFX Conflux \t\t\tOctopus \t\t \t\t \t\t\t10 \t\t\tCLO Callisto Network \t\t\tEthash \t\t \t\t \t\t\t11 \t\t\tDBIX \t\t\tEthash \t\t \t\t \t\t\t12 \t\t\tEGEM EtherGem \t\t\tEthash \t\t \t\t \t\t\t13 \t\t\tERE \t\t\tEthash \t\t \t\t \t\t\t14 \t\t\tERG Ergo \t\t\tAutolykos2 \t\t \t\t \t\t\t15 \t\t\tESN Escudo Navacense \t\t\tEthash \t\t \t\t \t\t\t16 \t\t\tETC Ethereum Classic \t\t\tEtchash \t\t \t\t \t\t\t17 \t\t\tETH Ethereum \t\t\tEthash \t\t \t\t \t\t\t18 \t\t\tETHO Etho Protocol \t\t\tEthash \t\t \t\t \t\t\t19 \t\t\tETP Metaverse ETP \t\t\tEthash \t\t \t\t \t\t\t20 \t\t\tEXP Expanse \t\t\tEthash \t\t \t\t \t\t\t21 \t\t\tE2IL ETC Ezil \t\t\tEtchash \t\t \t\t \t\t\t22 \t\t\tE2IL ETH Ezil \t\t\tEthash \t\t \t\t \t\t\t23 \t\t\tF2POOL CFX F2Pool \t\t\tOctopus \t\t \t\t \t\t\t24 \t\t\tF2POOL ETC F2Pool \t\t\tEtchash \t\t \t\t \t\t\t25 \t\t\tF2POOL ETH F2Pool \t\t\tEthash \t\t \t\t \t\t\t26 \t\t\tF2POOL RVN F2Pool \t\t\tKAWPOW \t\t \t\t \t\t\t27 \t\t\tFIRO Firo \t\t\tMTP \t\t \t\t \t\t\t28 \t\t\tFLEXPOOL ETH Flexpool \t\t\tEthash \t\t \t\t \t\t\t29 \t\t\tHD AC Hdac \t\t\tSkunkhash \t\t \t\t \t\t\t30 \t\t\tHIVEON ETC Hiveon \t\t\tEtchash \t\t \t\t \t\t\t31 \t\t\tHIVEON ETH Hiveon \t\t\tEthash \t\t \t\t \t\t\t32 \t\t\tMD KAWPOW Mining Dutch \t\t\tKAWPOW \t\t \t\t \t\t\t33 \t\t\tMO Ethash MoneroOcean \t\t\tEthash \t\t \t\t \t\t\t34 \t\t\tMO AC MOAC \t\t\tEthash \t\t \t\t \t\t\t35 \t\t\tMPH Etchash Mining Pool Hub \t\t\tEtchash \t\t \t\t \t\t\t36 \t\t\tMPH Ethash Mining Pool Hub \t\t\tEthash \t\t \t\t \t\t\t37 \t\t\tMPH KAWPOW Mining Pool Hub \t\t\tKAWPOW \t\t \t\t \t\t\t38 \t\t\tMRR Etchash Mining Rig Rentals \t\t\tEtchash \t\t \t\t \t\t\t39 \t\t\tMRR Ethash Mining Rig Rentals \t\t\tEthash \t\t \t\t \t\t\t40 \t\t\tMRR MTP Mining Rig Rentals \t\t\tMTP \t\t \t\t \t\t\t41 \t\t\tMRR ProgPowZ Mining Rig Rentals \t\t\tProgPowZ \t\t \t\t \t\t\t42 \t\t\tMRR Skunkhash Mining Rig Rentals \t\t\tSkunkhash \t\t \t\t \t\t\t43 \t\t\tNANOPOOLCFX Nanopool \t\t\tOctopus \t\t \t\t \t\t\t44 \t\t\tNANOPOOL ERG Nanopool \t\t\tAutolykos2 \t\t \t\t \t\t\t45 \t\t\tNANOPOOL ETC Nanopool \t\t\tEtchash \t\t \t\t \t\t\t46 \t\t\tNANOPOOL ETH Nanopool \t\t\tEthash \t\t \t\t \t\t\t47 \t\t\tNANOPOOLRVN Nanopool \t\t\tKAWPOW \t\t \t\t \t\t\t48 \t\t\tNH Autolykos2 NiceHash \t\t\tAutolykos2 \t\t \t\t \t\t\t49 \t\t\tNH Ethash NiceHash \t\t\tEthash \t\t \t\t \t\t\t50 \t\t\tNH KAWPOW NiceHash \t\t\tKAWPOW \t\t \t\t \t\t\t51 \t\t\tNH Octopus NiceHash \t\t\tOctopus \t\t \t\t \t\t\t52 \t\t\tNILU Nilu \t\t\tEthash \t\t \t\t \t\t\t53 \t\t\tNUKO Nekonium \t\t\tEthash \t\t \t\t \t\t\t54 \t\t\tPGC Pegascoin \t\t\tEthash \t\t \t\t \t\t\t55 \t\t\tPOOLIN ETH Pool in \t\t\tEthash \t\t \t\t \t\t\t56 \t\t\tproh Etchash Prohashing \t\t\tEtchash \t\t \t\t \t\t\t57 \t\t\tPROH Ethash Prohashing \t\t\tEthash \t\t \t\t \t\t\t58 \t\t\tQKC QuarkChain \t\t\tEthash \t\t \t\t \t\t\t59 \t\t\tRVN Ravencoin \t\t\tKAWPOW \t\t \t\t \t\t\t60 \t\t\tSPARK ETH SparkPool \t\t\tEthash \t\t \t\t \t\t\t61 \t\t\tSPIDER ETH Spider \t\t\tEthash \t\t \t\t \t\t\t62 \t\t\tTCR TecraCoin \t\t\tMTP-TCR \t\t \t\t \t\t\t63 \t\t\tUNM Etchash un Mineable \t\t\tEtchash \t\t \t\t \t\t\t64 \t\t\tUNM Ethash un Mineable \t\t\tEthash \t\t \t\t \t\t\t65 \t\t\tUNM KAWPOW un Mineable \t\t\tKAWPOW \t\t \t\t \t\t\t66 \t\t\tVBK VeriBlock \t\t\tvProgPow \t\t \t\t \t\t\t67 \t\t\tVEIL VEIL \t\t\tProgPowVeil \t\t \t\t \t\t\t68 \t\t\tVIABTC ETC ViaBTC \t\t\tEtchash \t\t \t\t \t\t\t69 \t\t\tVIABTC RVN ViaBTC \t\t\tKAWPOW \t\t \t\t \t\t\t70 \t\t\tZANO Zano \t\t\tProgPowZ \t\t \t\t \t\t\t71 \t\t\tZELS \t\t\tKAWPOW \t\t \t\t \t\t\t72 \t\t\tZIL Zilliqa \t\t\tEthash \t\t \t\t \t\t\t73 \t\t\tZP Etchash Zergpool \t\t\tEtchash \t\t \t\t \t\t\t74 \t\t\tZP Ethash Zergpool \t\t\tEthash \t\t \t\t \t\t\t75 \t\t\tZP KAWPOW Zergpool \t\t\tKAWPOW \t\t \t\t \t\t\t76 \t\t\tZP MTP Zergpool \t\t\tMTP \t\t \t\t \t\t\t77 \t\t\tZP Skunkhash Zergpool \t\t\tSkunkhash \t\t \t\t \t\t\t78 \t\t\tzpoolSkunkhash zpool \t\t\tSkunkhash \t\t \t   ","categories": ["download"],
+        "title": "Скачать T Rex Miner&#58; последняя версия (0.24.0) - [2021]",
+        "excerpt":" Начните добывать криптовалюту   с помощью T-Rex Miner  \t\t \t\t\t \t\tВерсия: 0.24.0  \t\tФайл: *t-rex.exe,   \t\tSHA256: a3ed2c1b27d4038932fe4185cc6f4a032eee30ce125a60049babcff3ac3c3a86  \t\t(Скачать для Linux)\t \t\t \t\t \t\t \t\t \t\tСкачать сейчас(Windows x64) \t\t \t\t(зеркало) \t\t \t     Самая последняя версия программы T Rex Miner 0.24.0 готова для загрузки.   Скачайте T-Rex Miner 0.24.0 отсюда:   Скачать Сейчас   Скачать (зеркало)   Внутри архива вы найдете файл README.txt с инструкциями по установке.   Обязательно замените пул и адрес кошелька тем, что вы используете во всех файлах.        Поддерживает алгоритмы      autolykos2    etchash    ethash    kawpow    mtp    mtp-tcr    multi    octopus    progpow    progpow-veil    progpow-veriblock    progpowz    tensority    Поддерживаемые криптовалюты  \t \t\t \t\t\t# \t\t\tМонета \t\t\tАлгоритм \t\t \t\t \t\t\t1 \t\t\tAKA Akroma \t\t\tEthash \t\t \t\t \t\t\t2 \t\t\tANTPOOL RVN AntPool \t\t\tKAWPOW \t\t \t\t \t\t\t3 \t\t\tATH Atheios \t\t\tEthash \t\t \t\t \t\t\t4 \t\t\tBEEPOOL CFX BeePool \t\t\tOctopus \t\t \t\t \t\t\t5 \t\t\tBEEPOOL ETC BeePool \t\t\tEtchash \t\t \t\t \t\t\t6 \t\t\tBEEPOOL ETH BeePool \t\t\tEthash \t\t \t\t \t\t\t7 \t\t\tBEEPOOL RVN BeePool \t\t\tKAWPOW \t\t \t\t \t\t\t8 \t\t\tBINANCE ETH Blnance \t\t\tEthash \t\t \t\t \t\t\t9 \t\t\tCFX Conflux \t\t\tOctopus \t\t \t\t \t\t\t10 \t\t\tCLO Callisto Network \t\t\tEthash \t\t \t\t \t\t\t11 \t\t\tDBIX \t\t\tEthash \t\t \t\t \t\t\t12 \t\t\tEGEM EtherGem \t\t\tEthash \t\t \t\t \t\t\t13 \t\t\tERE \t\t\tEthash \t\t \t\t \t\t\t14 \t\t\tERG Ergo \t\t\tAutolykos2 \t\t \t\t \t\t\t15 \t\t\tESN Escudo Navacense \t\t\tEthash \t\t \t\t \t\t\t16 \t\t\tETC Ethereum Classic \t\t\tEtchash \t\t \t\t \t\t\t17 \t\t\tETH Ethereum \t\t\tEthash \t\t \t\t \t\t\t18 \t\t\tETHO Etho Protocol \t\t\tEthash \t\t \t\t \t\t\t19 \t\t\tETP Metaverse ETP \t\t\tEthash \t\t \t\t \t\t\t20 \t\t\tEXP Expanse \t\t\tEthash \t\t \t\t \t\t\t21 \t\t\tE2IL ETC Ezil \t\t\tEtchash \t\t \t\t \t\t\t22 \t\t\tE2IL ETH Ezil \t\t\tEthash \t\t \t\t \t\t\t23 \t\t\tF2POOL CFX F2Pool \t\t\tOctopus \t\t \t\t \t\t\t24 \t\t\tF2POOL ETC F2Pool \t\t\tEtchash \t\t \t\t \t\t\t25 \t\t\tF2POOL ETH F2Pool \t\t\tEthash \t\t \t\t \t\t\t26 \t\t\tF2POOL RVN F2Pool \t\t\tKAWPOW \t\t \t\t \t\t\t27 \t\t\tFIRO Firo \t\t\tMTP \t\t \t\t \t\t\t28 \t\t\tFLEXPOOL ETH Flexpool \t\t\tEthash \t\t \t\t \t\t\t29 \t\t\tHD AC Hdac \t\t\tSkunkhash \t\t \t\t \t\t\t30 \t\t\tHIVEON ETC Hiveon \t\t\tEtchash \t\t \t\t \t\t\t31 \t\t\tHIVEON ETH Hiveon \t\t\tEthash \t\t \t\t \t\t\t32 \t\t\tMD KAWPOW Mining Dutch \t\t\tKAWPOW \t\t \t\t \t\t\t33 \t\t\tMO Ethash MoneroOcean \t\t\tEthash \t\t \t\t \t\t\t34 \t\t\tMO AC MOAC \t\t\tEthash \t\t \t\t \t\t\t35 \t\t\tMPH Etchash Mining Pool Hub \t\t\tEtchash \t\t \t\t \t\t\t36 \t\t\tMPH Ethash Mining Pool Hub \t\t\tEthash \t\t \t\t \t\t\t37 \t\t\tMPH KAWPOW Mining Pool Hub \t\t\tKAWPOW \t\t \t\t \t\t\t38 \t\t\tMRR Etchash Mining Rig Rentals \t\t\tEtchash \t\t \t\t \t\t\t39 \t\t\tMRR Ethash Mining Rig Rentals \t\t\tEthash \t\t \t\t \t\t\t40 \t\t\tMRR MTP Mining Rig Rentals \t\t\tMTP \t\t \t\t \t\t\t41 \t\t\tMRR ProgPowZ Mining Rig Rentals \t\t\tProgPowZ \t\t \t\t \t\t\t42 \t\t\tMRR Skunkhash Mining Rig Rentals \t\t\tSkunkhash \t\t \t\t \t\t\t43 \t\t\tNANOPOOLCFX Nanopool \t\t\tOctopus \t\t \t\t \t\t\t44 \t\t\tNANOPOOL ERG Nanopool \t\t\tAutolykos2 \t\t \t\t \t\t\t45 \t\t\tNANOPOOL ETC Nanopool \t\t\tEtchash \t\t \t\t \t\t\t46 \t\t\tNANOPOOL ETH Nanopool \t\t\tEthash \t\t \t\t \t\t\t47 \t\t\tNANOPOOLRVN Nanopool \t\t\tKAWPOW \t\t \t\t \t\t\t48 \t\t\tNH Autolykos2 NiceHash \t\t\tAutolykos2 \t\t \t\t \t\t\t49 \t\t\tNH Ethash NiceHash \t\t\tEthash \t\t \t\t \t\t\t50 \t\t\tNH KAWPOW NiceHash \t\t\tKAWPOW \t\t \t\t \t\t\t51 \t\t\tNH Octopus NiceHash \t\t\tOctopus \t\t \t\t \t\t\t52 \t\t\tNILU Nilu \t\t\tEthash \t\t \t\t \t\t\t53 \t\t\tNUKO Nekonium \t\t\tEthash \t\t \t\t \t\t\t54 \t\t\tPGC Pegascoin \t\t\tEthash \t\t \t\t \t\t\t55 \t\t\tPOOLIN ETH Pool in \t\t\tEthash \t\t \t\t \t\t\t56 \t\t\tproh Etchash Prohashing \t\t\tEtchash \t\t \t\t \t\t\t57 \t\t\tPROH Ethash Prohashing \t\t\tEthash \t\t \t\t \t\t\t58 \t\t\tQKC QuarkChain \t\t\tEthash \t\t \t\t \t\t\t59 \t\t\tRVN Ravencoin \t\t\tKAWPOW \t\t \t\t \t\t\t60 \t\t\tSPARK ETH SparkPool \t\t\tEthash \t\t \t\t \t\t\t61 \t\t\tSPIDER ETH Spider \t\t\tEthash \t\t \t\t \t\t\t62 \t\t\tTCR TecraCoin \t\t\tMTP-TCR \t\t \t\t \t\t\t63 \t\t\tUNM Etchash un Mineable \t\t\tEtchash \t\t \t\t \t\t\t64 \t\t\tUNM Ethash un Mineable \t\t\tEthash \t\t \t\t \t\t\t65 \t\t\tUNM KAWPOW un Mineable \t\t\tKAWPOW \t\t \t\t \t\t\t66 \t\t\tVBK VeriBlock \t\t\tvProgPow \t\t \t\t \t\t\t67 \t\t\tVEIL VEIL \t\t\tProgPowVeil \t\t \t\t \t\t\t68 \t\t\tVIABTC ETC ViaBTC \t\t\tEtchash \t\t \t\t \t\t\t69 \t\t\tVIABTC RVN ViaBTC \t\t\tKAWPOW \t\t \t\t \t\t\t70 \t\t\tZANO Zano \t\t\tProgPowZ \t\t \t\t \t\t\t71 \t\t\tZELS \t\t\tKAWPOW \t\t \t\t \t\t\t72 \t\t\tZIL Zilliqa \t\t\tEthash \t\t \t\t \t\t\t73 \t\t\tZP Etchash Zergpool \t\t\tEtchash \t\t \t\t \t\t\t74 \t\t\tZP Ethash Zergpool \t\t\tEthash \t\t \t\t \t\t\t75 \t\t\tZP KAWPOW Zergpool \t\t\tKAWPOW \t\t \t\t \t\t\t76 \t\t\tZP MTP Zergpool \t\t\tMTP \t\t \t\t \t\t\t77 \t\t\tZP Skunkhash Zergpool \t\t\tSkunkhash \t\t \t\t \t\t\t78 \t\t\tzpoolSkunkhash zpool \t\t\tSkunkhash \t\t \t   ","categories": ["download"],
         "tags": ["T-Rex Miner"],
         "url": "https://trexminer.info/download/latest/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
@@ -233,111 +233,15 @@ var store = [{
         "url": "https://trexminer.info/ru/articles/xrp-09-11/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },{
-        "title": "Clear 09 12",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-12/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 13",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-13/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 14",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-14/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 15",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-15/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 16",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-16/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 17",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-17/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 18",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-18/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 19",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-19/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 20",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-20/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 21",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-21/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 22",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-22/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 23",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-23/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 24",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-24/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 25",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-25/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 26",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-26/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 27",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-27/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
-        "title": "Clear 09 28",
-        "excerpt":"   ","categories": ["articles"],
-        "tags": [],
-        "url": "https://trexminer.info/ru/articles/clear-09-28/",
-        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
-      },{
         "title": "Скачать T-Rex Miner 0.23.2 - NVIDIA GPU Miner [2021]",
         "excerpt":"ПРИМЕЧАНИЕ, это важное обновление для пользователей HiveOS, добывающих CFX (см. исправление octopus ошибки ниже).   Get started with T-Rex Miner  \t\t \t\t\t \t\tVersion: 0.23.2  \t\tFile: *t-rex.exe,    \t\tSHA256: 545bceb09e377201c0f4376efc951d8b735e4628abd877d8971cb1c59d1dc231  \t\t(Download for Linux)\t \t\t \t\t \t\t \t\t \t\tDownload Now (Windows x64) \t\t \t\t(mirror) \t\t \t     Готова для загрузки новая стабильная версия T-Rex Miner.   Вы можете скачать T-Rex Miner 0.23.2 отсюда:   Скачать сейчас   Скачать (зеркало)   Внутри архива вы найдете файл README.txt с инструкциями по установке.   Обязательно замените пул и адрес кошелька тем, что вы используете во всех файлах.        Изменения в новой версии      Удалено telnet API   Исправлены различные ошибки   Исправление ошибок:      (octopus) Проверка ЦП некорректно определяет недействительные доли после смены эпохи   (autolykos2) Майнер иногда вылетает при включении --validate-shares   (WebUI) Множественные исправления и улучшения:   добавлен компактный режим со скрытой диаграммой;   исправлено округление чисел по осям диаграммы;   исправлены неправильные метки хешрейта / мощности во всплывающих подсказках;   разрешена авторизация с существующим идентификатором сеанса (/trex?sid=xxx - для пользователей API)  ","categories": ["download"],
         "tags": ["T-Rex Miner"],
         "url": "https://trexminer.info/download/0.23.2/",
+        "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
+      },{
+        "title": "Скачать T-Rex Miner 0.24.0 - NVIDIA GPU Miner [2021]",
+        "excerpt":" Get started with T-Rex Miner  \t\t \t\t\t \t\tVersion: 0.24.0  \t\tFile: *t-rex.exe,    \t\tSHA256: a3ed2c1b27d4038932fe4185cc6f4a032eee30ce125a60049babcff3ac3c3a86  \t\t(Download for Linux)\t \t\t \t\t \t\t \t\t \t\tDownload Now (Windows x64) \t\t \t\t(mirror) \t\t \t     Готова для загрузки новая стабильная версия T-Rex Miner.   Вы можете скачать T-Rex Miner 0.24.0 отсюда:   Скачать сейчас   Скачать (зеркало)   Внутри архива вы найдете файл README.txt с инструкциями по установке.   Обязательно замените пул и адрес кошелька тем, что вы используете во всех файлах.        Изменения в новой версии      разблокировка LHR для режима двойного майнинга: теперь вы можете добывать ETH (~30% от полной скорости) и другие монеты (~70%) одновременно, с картами LHR, используя весь их потенциал. Доступные комбинации вместе с требованиями к памяти: ETH+ERGO (8 ГБ+) ETH+RVN (8 ГБ+) ETH+CFX (10 ГБ+)   WebUI еще не обновлен, чтобы отражать статистику второго алгоритма в двойном режиме, но будет обновлен в будущем.   (ethash) изменения и улучшения “стандартной” разблокировки LHR:   автоматическое определение карт LHR, даже если --lhr-tune не указана   новый параметр --lhr-low-power снижает энергопотребление в режиме LHR за счет несколько более низкой скорости хэширования (начиная с –lhr-tune 68)   изменение шкалы --lhr-tune по сравнению с версией 0.23.2, теперь она указывает процент от полного хэшрейта графического процессора, которого пытается достичь майнер. Старые значения в диапазоне [1-8] автоматически сопоставляются с новым масштабом, изменение конфигурации не требуется.   рекомендуемые значения начальной настройки LHR: 71 в обычном режиме, 68 в режиме низкого энергопотребления (это не относится к двойному режиму)  ","categories": ["download"],
+        "tags": ["T-Rex Miner"],
+        "url": "https://trexminer.info/download/0.24.0/",
         "teaser": "https://trexminer.info/assets/images/thumbs/500x300.png"
       },]
