@@ -3,30 +3,31 @@
    <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
-<!-- begin _includes/seo.html --><title>T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2002]</title>
+<!-- begin _includes/seo.html -->
+<title>T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2022]</title>
 <meta name="description" content="Dual Ethereum LHR unlock mining in HiveOS and Windows 10.">
  <meta name="author" content="T-REX Miner">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="T Rex Miner">
-<meta property="og:title" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2002]">
+<meta property="og:title" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2022]">
 <meta property="og:url" content="https://trexminer.info/documentation/dual-mining/">
  <meta property="og:description" content="Dual Ethereum LHR unlock mining in HiveOS and Windows 10.">
  <meta property="og:image" content="https://trexminer.info/assets/images/site-logo.png">
  <meta name="twitter:site" content="@T-Rex Miner">
- <meta name="twitter:title" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2002]">
+ <meta name="twitter:title" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2022]">
  <meta name="twitter:description" content="Dual Ethereum LHR unlock mining in HiveOS and Windows 10.">
  <meta name="twitter:url" content="https://trexminer.info/documentation/dual-mining/">
    <meta name="twitter:card" content="summary">
      <meta name="twitter:image" content="https://trexminer.info/assets/images/site-logo.png">
- <meta property="article:published_time" content="2022-07-29T00:00:00+00:00">
- <meta property="article:modified_time" content="2022-07-29T00:00:00+00:00">
+ <meta property="article:published_time" content="2022-07-29T00:00:00-05:00">
+ <meta property="article:modified_time" content="2022-12-16T00:00:00-05:00">
 <link rel="canonical" href="https://trexminer.info/documentation/dual-mining/">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "T-Rex Miner&#58; Dual mining (HiveOS and Windows) - Guide [2002]",
+  "headline": "T-Rex Miner&#58; Dual mining (HiveOS and Windows) - Guide [2022]",
   "image": "",  
   "author": {
     "@type": "Person",
@@ -42,7 +43,7 @@
       "url": "https://trexminer.info/assets/images/logo2.png"
     }
   },
-  "dateModified": "2022-07-29T00:00:00+00:00"
+  "dateModified": "2022-12-16T00:00:00-05:00"
 }
 </script>
  <meta name="google-site-verification" content="zQy21zaxEe1lG6rAm_PUqjqNMdrj5e7452CB29i5bI8">
@@ -174,10 +175,10 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
 </nav>
  </div>
  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-   <meta itemprop="headline" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2002]">
+   <meta itemprop="headline" content="T-Rex Miner: Dual mining (HiveOS and Windows) - Guide [2022]">
    <meta itemprop="description" content="Dual Ethereum LHR unlock mining in HiveOS and Windows 10.">
    <meta itemprop="datePublished" content="July 29, 2022">
-   <meta itemprop="dateModified" content="July 29, 2022"> 
+   <meta itemprop="dateModified" content="December 16, 2022"> 
    <div class="page__inner-wrap">
       <header>
 		 <h1 id="page-title" class="page__title" itemprop="headline">T-Rex Miner: Dual mining (HiveOS and Windows) with 100% LHR Unlock
@@ -228,12 +229,12 @@ button:focus,a:focus{outline:thin dotted #6f777d;outline:5px auto #6f777d;outlin
     c_display_preferences.height = "250";
     coinzilla_display.push(c_display_preferences);
 </script>
-<p><img srcset="/assets/images/documentation/mobile/dual.webp 323w,              /assets/images/documentation/webp/dual.webp 517w,              /assets/images/documentation/large/dual.webp 1920w" sizes="(max-width: 720px) 50px, 			(max-width: 721px) 1920px, 			(max-width: 1920px) 400px,             517px" src="/assets/images/documentation/jpeg/dual.png" alt="dual T-Rex Miner" loading="lazy"></p>
+<p><img srcset="/assets/images/documentation/mobile/dual.webp 323w,              /assets/images/documentation/webp/dual.webp 517w,              /assets/images/documentation/large/dual.webp 1920w" sizes="(max-width: 720px) 50px, 			(max-width: 721px) 1920px, 			(max-width: 1920px) 400px,             517px" src="/assets/images/documentation/jpeg/dual.png" alt="dual T-Rex Miner" loading="lazy" decoding="async"></p>
 <p>GPU miners can benefit from the fact that some algorithms are memory intensive (e.g. ethash) and others are core intensive (e.g. blake3), allowing them to be combined and mine a secondary algorithm with very little impact on the hashrate of the main algorithm.</p>
 <p>Dual mining can be enabled with the <code class="language-plaintext highlighter-rouge">--dual-algo</code> option, which should be preferred to the deprecated <code class="language-plaintext highlighter-rouge">--lhr-algo</code>.</p>
 <h2 id="ethereimalephium">ETHereim+Alephium</h2>
 <p class="notice--success">We will take a wallet for Alephium at the <a href="https://cutt.ly/zZkupRL" rel="nofollow noopener" target="_blank">Gate.io</a> cryptocurrency exchange.</p>
-<p><strong>Quick start</strong>: see the file “ETH+ALPH” <code class="language-plaintext highlighter-rouge">*.bat</code>/<code class="language-plaintext highlighter-rouge">*.sh</code> in the miner archive. If you are using HiveOS or any other mining OS that launches T-Rex with a config file instead of command line arguments, you need to specify your options in JSON, like so:</p>
+<p><strong>Quick start</strong>: see the file “ETC+ALPH” <code class="language-plaintext highlighter-rouge">*.bat</code>/<code class="language-plaintext highlighter-rouge">*.sh</code> in the miner archive. If you are using HiveOS or any other mining OS that launches T-Rex with a config file instead of command line arguments, you need to specify your options in JSON, like so:</p>
 <div class="language-batch highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s2">"dual-algo"</span>: <span class="s2">"blake3"</span>
 <span class="s2">"url2"</span>: <span class="s2">"stratum+tcp://pool.woolypooly.com:3106"</span>
 <span class="s2">"user2"</span>: <span class="s2">"14xchBfD4bwxdti44NyjK5BQWympyHuxAREigL2UkZCgZ"</span>
@@ -411,7 +412,7 @@ An even better way would be to leave the maximum power limit and instead lock th
 	<span class="classyschema-videoobject-seektoaction" data-content="https://youtu.be/GkrmbOT6xB8?t={seek_to_second_number}" style="display: none;">https://youtu.be/GkrmbOT6xB8?t={seek_to_second_number}</span>
 </div>
 <p>Happy mining!</p>
-<p><a href="/assets/images/mining/mining_rig_1901.jpg" class="image-popup"> <img src="/assets/images/mining/mining_rig_1901.jpg" alt="mining rig for trex miner" loading="lazy"> </a></p>
+<p><a href="/assets/images/mining/mining_rig_1901.jpg" class="image-popup"> <img src="/assets/images/mining/mining_rig_1901.jpg" alt="mining rig for trex miner" loading="lazy" decoding="async"> </a></p>
      </section>
       <footer class="page__meta">
  <p class="page__taxonomy">
@@ -420,7 +421,7 @@ An even better way would be to leave the maximum power limit and instead lock th
       <a href="/documentation" class="page__taxonomy-item" rel="tag">documentation</a>
     </span>
  </p>
-		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated: <time datetime="2022-07-29T00:00:00+00:00">29.07.2022</time></p>
+		 <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated: <time datetime="2022-12-16T00:00:00-05:00">16.12.2022</time></p>
      </footer>
 </div>
    </article>
@@ -469,7 +470,7 @@ File: *t-rex.exe, <br>
 <div class="grid__item">
  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
      <div class="archive__item-teaser">
-        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy">
+        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
         <a href="/download/0.26.8/" rel="permalink">Download T-Rex Miner 0.26.8 - NVIDIA GPU Miner [2022]
@@ -489,7 +490,7 @@ Get started with T-Rex Miner
 <div class="grid__item">
  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
      <div class="archive__item-teaser">
-        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy">
+        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
         <a href="/download/0.26.6/" rel="permalink">Download T-Rex Miner 0.26.6 - NVIDIA GPU Miner [2022]
@@ -509,7 +510,7 @@ Get started with T-Rex Miner
 <div class="grid__item">
  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
      <div class="archive__item-teaser">
-        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy">
+        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
         <a href="/download/0.26.5/" rel="permalink">Download T-Rex Miner 0.26.5 - NVIDIA GPU Miner [2022]
@@ -529,7 +530,7 @@ Get started with T-Rex Miner
 <div class="grid__item">
  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
      <div class="archive__item-teaser">
-        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy">
+        <img src="/assets/images/thumbs/500x300.png" alt="" loading="lazy" decoding="async">
      </div>
    <h2 class="archive__item-title" itemprop="headline">
         <a href="/documentation/lhr/" rel="permalink">T-Rex Miner: 100% LHR Unlock (Windows and HiveOS) settings
@@ -547,7 +548,7 @@ Get started with T-Rex Miner
     <!-- post navigation footer -->
      <section class="page__share">
    <h4 class="page__share-title">Share on</h4>
-  <a href="https://twitter.com/intent/tweet?via=T-Rex+Miner&amp;text=T-Rex+Miner%26%2358%3B+Dual+mining+%28HiveOS+and+Windows%29+-+Guide+%5B2002%5D%20https%3A%2F%2Ftrexminer.info%2Fdocumentation%2Fdual-mining%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?via=T-Rex+Miner&amp;text=T-Rex+Miner%26%2358%3B+Dual+mining+%28HiveOS+and+Windows%29+-+Guide+%5B2022%5D%20https%3A%2F%2Ftrexminer.info%2Fdocumentation%2Fdual-mining%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftrexminer.info%2Fdocumentation%2Fdual-mining%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
   <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftrexminer.info%2Fdocumentation%2Fdual-mining%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
@@ -654,7 +655,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <script defer src="/assets/js/youtube-custom-lazy.js"></script>	
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K3J6G3" height="0" width="0" style="display:none;visibility:hidden" loading="lazy"></iframe></noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5K3J6G3" height="0" width="0" style="display:none;visibility:hidden" loading="lazy" decoding="async"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <script src="https://coinzillatag.com/lib/sticky.js"></script>
 <script>window.coinzilla_sticky = window.coinzilla_sticky || [];function czilla(){coinzilla_sticky.push(arguments);}czilla('931626a8739bf18d393');</script>
